@@ -1,0 +1,4 @@
+---
+  name: task.node
+  description: Rake like Task runner
+  version: 0.0.1
